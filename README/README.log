@@ -1,0 +1,227 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2014.11.3)  19 DEC 2014 15:28
+entering extended mode
+**README.tex
+(D:\work\workspace\myTodoList\README\README.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\ctex.sty"
+Package: ctex 2010/01/22 v0.97 ctex macros package
+
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\opt\ctex-common-opts.def")
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\cfg\ctexopts.cfg")
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\def\ctex-common.def"
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ifxetex\ifxetex.sty"
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\base\fix-cm.sty"
+Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\engine\ctex-cjk-engine.def"
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\CJK.sty"
+Package: CJK 2008/12/29 4.8.2
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\mule\MULEenc.sty"
+Package: MULEenc 2008/12/29 4.8.2
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\CJK.enc"
+File: CJK.enc 2008/12/29 4.8.2
+)
+LaTeX Info: Redefining \selectfont on input line 756.
+\CJK@indent=\box26
+)
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\CJKpunct\CJKpunct.sty"
+Package: CJKpunct 2009/05/06 4.8.2
+\CJKpunct@cnta=\count87
+\CJKpunct@cntb=\count88
+\CJKpunct@cntc=\count89
+\CJKpunct@cntd=\count90
+\CJKpunct@cnte=\count91
+
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\CJKpunct\CJKpunct.spa"))
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\engine\ctex-cjk-common.def"
+\ccwd=\dimen103
+)
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\fontset\ctex-cjk-winfonts.def
+" ("D:\Program Files (x86)\CTEX\CTeX\tex\generic\zhmetrics\zhwinfonts.tex"
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty"
+Package ifpdf Info: The package is already loaded, stopped on input line 53.
+){D:/Program Files (x86)/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UG
+BK.sfd}})))
+\CTEX@q=\count92
+\CTEX@r=\count93
+)) ("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\def\ctex-gbk.def")
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\cfg\ctex.cfg")
+(D:\work\workspace\myTodoList\README\README.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\standard.bdg"
+File: standard.bdg 2008/12/29 4.8.2
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\extended.enc"
+File: extended.enc 2008/12/29 4.8.2
+)
+("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\cjk\extended.chr"
+File: extended.chr 2008/12/29 4.8.2
+)
+LaTeX Font Info:    Try loading font information for C19+zhhei on input line 9.
+
+
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\zhmetrics\c19zhhei.fd"
+File: c19zhhei.fd 2009/09/23 4.8.2
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 9.
+LaTeX Font Info:    Try loading font information for C19+rm on input line 9.
+
+("D:\Program Files (x86)\CTEX\CTeX\tex\latex\ctex\fd\c19rm.fd"
+File: c19rm.fd 2007/05/06 v0.8a ctex font definition file
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+ [1
+
+]
+(D:\work\workspace\myTodoList\README\README.aux) ) 
+Here is how much of TeX's memory you used:
+ 2324 strings out of 495285
+ 33813 string characters out of 3179807
+ 78826 words of memory out of 3000000
+ 5485 multiletter control sequences out of 15000+200000
+ 11452 words of font info for 40 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 31i,11n,28p,419b,508s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Windows/Fonts/simsun.ttc>
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sim
+sun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
+onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
+indows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.t
+tf><C:/Windows/Fonts/simhei.ttf><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy6.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmsy8.pfb>
+Output written on README.pdf (1 page, 93681 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
